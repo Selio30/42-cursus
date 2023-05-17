@@ -83,11 +83,11 @@ La siguiente tabla presenta el plan de estudios del cursus en el orden cronológ
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
-|00		|[Libft](https://github.com/Selio30/libft)|C						|462 XP			|							|				|
+|00		|[Libft](https://github.com/Selio30/42-libft)|C						|462 XP			|							|				|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
+|01		|[ft_printf](https://github.com/Selio30/42-printf)|C						|882 XP			|							|				|
 |01		|netwhat		|Networks				|462 XP			|							|				|
 |01		|get_next_line|C						|882 XP			|							|				|
-|01		|ft_printf|C						|882 XP			|							|				|
 |:dizzy:|									|						|**= 2.226 XP**	|							|				|
 |02		|ft_server|docker, .sh, web, SQL	|1.722 XP		|							|				|
 |02		|miniRT or cub3d	|C, Computer Graphics	|4.620 XP		|							|				|
