@@ -83,7 +83,7 @@ La siguiente tabla presenta el plan de estudios del cursus en el orden cronológ
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
-|00		|[Libft](https://github.com/Selio30/42-libft)|C						|462 XP			|							|				|
+|00		|[Libft](https://github.com/Selio30/42-libft)|C						|462 XP			|125% :heavy_check_mark:							|level 1 - 05%				|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
 |01		|[ft_printf](https://github.com/Selio30/42-printf)|C						|882 XP			|							|				|
 |01		|netwhat		|Networks				|462 XP			|							|				|
